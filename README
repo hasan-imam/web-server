@@ -1,0 +1,9 @@
+My first sip of Java! 
+Made a simple web server that servers web pages. Supports HTTP/1.0. Created while studying HTTP protocol.
+
+Note: server's listening port is 9999. When requesting page from a browser, be sure to write url in this format:
+{server's IP}:{server's port}/{requested page location/path relative to the path where server is executing from}
+
+Contributors:
+	Victor Zhang
+	Hasan Imam
